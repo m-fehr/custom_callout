@@ -1,0 +1,9 @@
+title: Course Page Format
+author: Cambridge Informatics Training
+version: 1.0.0
+contributes:
+  formats:
+    html:
+      theme: [default, theme.scss]
+  filters:
+    - callout_definition.lua
