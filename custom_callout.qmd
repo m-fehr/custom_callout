@@ -3,7 +3,6 @@ title: "Custom calloutbox"
 ---
 
 ::: {.callout-definition}
-#### Lichtjahr
 
 Das ist eine Definitionsbox
 
