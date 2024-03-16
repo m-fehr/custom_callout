@@ -5,5 +5,7 @@ contributes:
   formats:
     html:
       theme: [default, theme.scss]
+    pdf: 
+      theme: [default, theme.scss]
   filters:
     - callout_definition.lua
